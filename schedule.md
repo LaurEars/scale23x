@@ -6,6 +6,7 @@ My schedule for SCALE 23x — Southern California Linux Expo.
 
 | Date       | Time          | Title                                                                                              | Type     | Location    | Attended | Notes                                                          |
 |------------|---------------|----------------------------------------------------------------------------------------------------|----------|-------------|----------|----------------------------------------------------------------|
+| 2026-03-05 | 10:45 - 11:30 | 📞 The changing American PSTN core                                                                 | Session  | Room 106    | [x]      | [Notes](sessions/changing-american-pstn-core.md)              |
 | 2026-03-05 | 14:40 - 15:00 | 🔒 Confidential Vector Search: Knowledgebase Homomorphic Encryption                                | Session  | Ballroom F  | [ ]      | [Notes](sessions/confidential-vector-search.md)               |
 | 2026-03-06 | 10:00 - 13:00 | 🌊 Sponsored Workshop: From Tables to Streams: Apache Flink for SQL Developers                     | Workshop | Room 207    | [ ]      | [Notes](sessions/flink-sql-workshop.md)                        |
 | 2026-03-06 | 11:00 - 11:45 | ⌨️ All Your Keyboards Are Belong To Us!                                                             | Session  | Ballroom C  | [ ]      | [Notes](sessions/all-your-keyboards.md)                        |
