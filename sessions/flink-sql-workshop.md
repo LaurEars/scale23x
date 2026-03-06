@@ -15,27 +15,12 @@ https://www.socallinuxexpo.org/scale/23x/presentations/sponsored-workshop-tables
 
 A hands-on workshop introducing SQL developers to Apache Flink for real-time stream processing, covering the Table API, real-time feature engineering, and practical streaming use cases like fraud detection and live analytics.
 
-## Key Points
-
--
--
--
-
-## Technical Details
-
--
--
-
 ## Lab Exercises
 
-```
-# Lab notes go here
-```
+- [Workshop repo](https://github.com/gAmUssA/streaming-flight-analytics-workshop-cc/tree/workshop-scale23x)
 
 ## Resources Mentioned
 
--
-
-## Personal Thoughts
-
--
+- [Flink SQL & Table API](https://selectstar.stream/)
+- [Flink Watermarks](https://flink-watermarks.wtf/)
+- [Confluent Developer on YouTube](https://www.youtube.com/@ConfluentDeveloper)

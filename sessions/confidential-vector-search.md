@@ -15,19 +15,7 @@ A practical walkthrough of homomorphic encryption techniques for building RAG sy
 
 ## Key Points
 
--
--
--
-
-## Technical Details
-
--
--
-
-## Resources Mentioned
-
--
-
-## Personal Thoughts
-
--
+- Operate on the data without decrypting it
+- Scramble elements in vector -> same dot product calculated in RAG
+- 2025 SIAM Mathematical Problems in Industry Workshop to solve issue w/ ~15 mathematicians
+- Kwaai github has code and paper is available
