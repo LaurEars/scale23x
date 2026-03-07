@@ -19,23 +19,10 @@ An end-to-end walkthrough of training, fine-tuning, and deploying a small langua
 
 ## Key Points
 
--
--
--
-
-## Technical Details
-
--
--
-
-## Demo Notes
-
--
-
-## Resources Mentioned
-
--
-
-## Personal Thoughts
-
--
+- Features of SLMs
+  - Lower parameters
+  - Limited context windows
+  - Smaller vector dimensions (reasoning capacity)
+- Use StreamingTokenDataset
+- No epochs, step based
+- Example with SQL SLM model
