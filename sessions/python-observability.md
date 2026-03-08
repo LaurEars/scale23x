@@ -17,19 +17,13 @@ Real-world lessons from building cost-conscious observability for the Python Sof
 
 ## Key Points
 
--
--
--
-
-## Technical Details
-
--
--
-
-## Resources Mentioned
-
--
-
-## Personal Thoughts
-
--
+- "Seeing is not understanding"
+- PyPI
+  - 3.4 Billion downloads packages downloaded per day (now over 4 Billion)
+  - 36 TB of packages
+  - More traffic than google
+- "We don't have the luxury of noise" because of the small team. Alerts compete with real work
+- "Noise trains you to ignore alerts"
+- Community as observability
+  - Messages and friction reports as observability data
+  - People remember context that dashboards cannot

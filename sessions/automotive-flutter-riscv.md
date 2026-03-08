@@ -15,19 +15,14 @@ A journey into enabling Flutter-based automotive HMI experiences on RISC-V hardw
 
 ## Key Points
 
--
--
--
-
-## Technical Details
-
--
--
+- x86 vs ARM vs RISC-V
+- RISC-V most Linux-friendly ISA
+- Flutter originally from Google
+- Android, Linux, iOS, cross-platform
+- AGL release in 2025
+- Flutter Embedded for Automotive, AGL
+- Flutter AI framework for local compute in progress
 
 ## Resources Mentioned
 
--
-
-## Personal Thoughts
-
--
+- [meta-flutter](https://github.com/meta-flutter/meta-flutter): Yocto Layer for Google Flutter related projects

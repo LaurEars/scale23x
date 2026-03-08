@@ -21,19 +21,10 @@ A practical account of migrating a heterogeneous production environment to OpenT
 
 ## Key Points
 
--
--
--
-
-## Technical Details
-
--
--
-
-## Resources Mentioned
-
--
-
-## Personal Thoughts
-
--
+- Observability spend 📈
+- Use OTel for everything
+- BYOC (Bring Your Own Cloud) vendor
+- eBPF works on k8s, not Fargate ECS
+- Firehose to get logs out
+- dev:SRE at 15:1
+- Some non-otel features not available on new platform
