@@ -20,6 +20,7 @@ My schedule for SCALE 23x — Southern California Linux Expo.
 | 2026-03-07 | 17:00 - 18:00 | 🚀 Engineering at Ludicrous Speed: How AI Is Reshaping Infra and Engineering                       | Session  | Room 107    | [ ]      | [Notes](sessions/ai-reshaping-infra.md)                        |
 | 2026-03-07 | 17:00 - 18:00 | 🚗 Accelerating Open Automotive Innovation: Flutter on RISC-V                                      | Session  | Room 211    | [x]      | [Notes](sessions/automotive-flutter-riscv.md)                  |
 | 2026-03-07 | 18:15 - 19:15 | 🔍 OpenSearch: The Open Source Path to Search and Observability                                    | Session  | Ballroom F  | [ ]      | [Notes](sessions/opensearch-search-observability.md)           |
+| 2026-03-08 | 11:45 - 12:45 | ⚓ From COBOL to Claude: What Hopper Knew                                                          | Session  | Room 107    | [x]      | [Notes](sessions/cobol-claude-what-hopper-knew.md)             |
 | 2026-03-08 | 12:00 - 13:30 | 🐠 Try To Teach a Goldfish to Bark                                                                 | Session  | Room 104    | [ ]      | [Notes](sessions/try-teach-goldfish-bark.md)                   |
 | 2026-03-08 | 13:45 - 14:45 | 🕷️ OpenSearch: Your Friendly Neighborhood Vector Database                                          | Session  | Ballroom DE | [ ]      | [Notes](sessions/opensearch-vector-database.md)                |
 
